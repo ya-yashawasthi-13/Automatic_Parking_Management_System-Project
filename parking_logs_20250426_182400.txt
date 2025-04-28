@@ -1,0 +1,31 @@
+[2025-04-26 18:22:26] Vehicle HOK-0770 entered and parked in slot 22.
+[2025-04-26 18:22:29] Automated simulation stopped.
+[2025-04-26 18:22:31] Automated simulation started.
+[2025-04-26 18:22:34] Vehicle DGC-8427 entered and parked in slot 23.
+[2025-04-26 18:22:40] Vehicle GVD-6327 entered and parked in slot 24.
+[2025-04-26 18:22:42] Vehicle WOR-9867 entered and parked in slot 25.
+[2025-04-26 18:22:48] Vehicle JFZ-4475 added to entry queue.
+[2025-04-26 18:22:50] Vehicle UKD-2141 added to entry queue.
+[2025-04-26 18:22:56] Vehicle DJO-3022 added to entry queue.
+[2025-04-26 18:22:58] Vehicle KGR-1286 added to entry queue.
+[2025-04-26 18:23:05] Vehicle FXG-1268 exited from slot 15. Duration: 3.0 min. Fee: $3.57
+[2025-04-26 18:23:05] Vehicle BFS-1366 added to entry queue.
+[2025-04-26 18:23:06] Vehicle CVD-0767 added to entry queue.
+[2025-04-26 18:23:12] Vehicle ZYP-6651 added to entry queue.
+[2025-04-26 18:23:14] Vehicle HQY-1415 added to entry queue.
+[2025-04-26 18:23:20] Simulation settings updated. Entry rate: 8000ms, Exit check rate: 5000ms
+[2025-04-26 18:23:20] Vehicle RNM-5155 added to entry queue.
+[2025-04-26 18:23:22] Simulation settings updated. Entry rate: 8000ms, Exit check rate: 5000ms
+[2025-04-26 18:23:22] Vehicle YAW-5749 added to entry queue.
+[2025-04-26 18:23:29] Vehicle TLT-6157 added to entry queue.
+[2025-04-26 18:23:30] Vehicle BXT-0153 added to entry queue.
+[2025-04-26 18:23:33] Vehicle IUV-8294 exited from slot 8. Duration: 2.8 min. Fee: $2.83
+[2025-04-26 18:23:37] Vehicle UFV-5954 added to entry queue.
+[2025-04-26 18:23:38] Vehicle ZFQ-0643 added to entry queue.
+[2025-04-26 18:23:41] Vehicle DRZ-9502 added to exit stack.
+[2025-04-26 18:23:45] Vehicle DRZ-9502 exited from exit stack. Duration: 3.6 min. Fee: $5.43
+[2025-04-26 18:23:46] Vehicle GZL-7766 added to entry queue.
+[2025-04-26 18:23:46] Vehicle PUF-9166 added to entry queue.
+[2025-04-26 18:23:54] Vehicle YNF-5245 added to entry queue.
+[2025-04-26 18:23:54] Vehicle EWV-2089 added to entry queue.
+
